@@ -1,5 +1,5 @@
 # APS
-This repository contains the following codes:
+This repository contains the Code library consisting of the following codes :
 
 1.Dyck's Path
 
