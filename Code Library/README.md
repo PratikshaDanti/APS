@@ -1,7 +1,7 @@
 # APS
 This repository contains the Code library consisting of the following codes :
 
-1.Dyck's Path
+1.Generate possible Dyck's sequences
 
 2.Longest Common Subsequence
 
