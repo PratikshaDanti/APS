@@ -25,5 +25,4 @@ for i in range(1,len(s1)+1):
             li1[i][j]=(max(li1[i-1][j],li1[i][j-1]))
     k=k+1
         
-print(li1)
 print('Length of longest common subsequence ',li1[len(s1)][len(s2)])
