@@ -31,3 +31,4 @@ This repository contains the Code library consisting of the following codes :
 
 15.Assignment Problem.
 
+16.Check whether given string is a pangram or not.
