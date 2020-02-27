@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 28 20:16:07 2020
-
-@author: Pratiksha
-"""
-
 n=int(input('enter the length: '))
 li=[]
 x=0
