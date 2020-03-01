@@ -37,6 +37,8 @@ This repository contains the Code library consisting of the following codes :
 
 18. Maximizing XOR. 
 
+19. Caesar Cipher.
+
 20. Union Find implementation using root method.
 
 22. Binomial Coefficient Using Dynamic Programming.
