@@ -39,7 +39,9 @@ This repository contains the Code library consisting of the following codes :
 
 19. Caesar Cipher.
 
-20. Union Find implementation using root method.
+20. Union Find implementation using Root Method.
+
+21. Check Whether Given Subset Sum is Possible or not.
 
 22. Binomial Coefficient Using Dynamic Programming.
 
