@@ -52,3 +52,11 @@ This repository contains the Code library consisting of the following codes :
 25. Bit Manipulation-5(Find minimum and maximum numbers given 2 numbers).
 
 26. Strong Password Hackerrank.
+
+27. Selection Sort.
+
+28. Tower of Hanoi.
+
+29. Generating Permutations of a Set of Length n.
+
+30. Print Possible Combinations of Truth Values Given Length n.
