@@ -69,5 +69,5 @@ This repository contains the Code library consisting of the following codes :
 
 34. Bit Manipulation-8(Swapping 2 numbers.)
 
-35.Bit Manipulation-9(Flipping bits of a number.)
+35. Bit Manipulation-9(Flipping bits of a number.)
 
