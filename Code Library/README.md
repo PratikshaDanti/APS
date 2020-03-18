@@ -60,3 +60,14 @@ This repository contains the Code library consisting of the following codes :
 29. Generating Permutations of a Set of Length n.
 
 30. Print Possible Combinations of Truth Values Given Length n.
+
+31. Compute XOR of Values Ranging From 1 to n.
+
+32. Bit Manipulation-6(Check whether a number is a power of 2 or not.)
+
+33. Bit Manipulation-7(Check whether a number is power of 2 or not by counting number of set bits.)
+
+34. Bit Manipulation-8(Swapping 2 numbers.)
+
+35.Bit Manipulation-9(Flipping bits of a number.)
+
