@@ -71,3 +71,15 @@ This repository contains the Code library consisting of the following codes :
 
 35. Bit Manipulation-9(Flipping bits of a number.)
 
+36. Factorial of a Number Using Recursion.
+
+37. Fibonacci of nth Number in Sequence Using Recursion.
+
+38. Bit Manipulation-10(check whether a number is divisible by 8 or not.)
+
+39. Generating Prime Numbers Within a Given Range.
+
+40. Bubble Sort.
+
+41. Binary to Decimal Conversion.
+
