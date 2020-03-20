@@ -83,3 +83,10 @@ This Code library consists the following codes :(Goal 150)
 
 41. Binary to Decimal Conversion.
 
+42. Linear Search.
+
+43. Transpose of a Matrix.
+
+44. Insertion Sort.
+
+45. Bit Manipulation-11(Product of Two Numbers Without Using Multiplication Operator.)
