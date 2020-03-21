@@ -100,3 +100,13 @@ This Code library consists the following codes :(Goal 150)
 49. Evaluate Postfix Expression.
 
 50. Evaluate Prefix Expression.
+
+51. Josephus Problem Iterative Approach.
+
+52. Josephus Problem Recursive Approach.
+
+53. Juggler Sequence.
+
+54. Print the Top n Entities in ListSstring According to Their Number of Occurences Using Counter Module.
+
+55. Print the Top n Smallest/Largest Elements in List Using heapq.
