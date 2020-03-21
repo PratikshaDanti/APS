@@ -90,3 +90,13 @@ This Code library consists the following codes :(Goal 150)
 44. Insertion Sort.
 
 45. Bit Manipulation-11(Product of Two Numbers Without Using Multiplication Operator.)
+
+46. Bit Manipulation-12(Addition of Two Numbers Without Using Addition Operator.)
+
+47. Bit Manipulation-13(Subtraction Between Two Numbers Without Minus Opeartor.)
+
+48. Banker's Algorithm.
+
+49. Evaluate Postfix Expression.
+
+50. Evaluate Prefix Expression.
