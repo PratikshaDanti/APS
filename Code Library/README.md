@@ -110,3 +110,14 @@ This Code library consists the following codes :(Goal 150)
 54. Print the Top n Entities in ListSstring According to Their Number of Occurences Using Counter Module.
 
 55. Print the Top n Smallest/Largest Elements in List Using heapq.
+
+56. Reversing a Number.
+
+57. 2's Complement of a Number.
+
+58. 0-1 Knapsack Problem.
+
+59. Coin-Change Problem.
+
+60. Kadane's Algorithm.
+
