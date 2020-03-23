@@ -63,19 +63,19 @@ This Code library consists the following codes :(Goal 150)
 
 31. Compute XOR of Values Ranging From 1 to n.
 
-32. Bit Manipulation-6(Check Whether a Number is a Power of 2 or Not.)
+32. Bit Manipulation-6(Check Whether a Number is a Power of 2 or Not).
 
-33. Bit Manipulation-7(Check Whether a Number is Power of 2 or Not by Counting Number of Set Bits.)
+33. Bit Manipulation-7(Check Whether a Number is Power of 2 or Not by Counting Number of Set Bits).
 
-34. Bit Manipulation-8(Swapping 2 Numbers.)
+34. Bit Manipulation-8(Swapping 2 Numbers).
 
-35. Bit Manipulation-9(Flipping Bits of a Number.)
+35. Bit Manipulation-9(Flipping Bits of a Number).
 
 36. Factorial of a Number Using Recursion.
 
 37. Fibonacci of nth Number in Sequence Using Recursion.
 
-38. Bit Manipulation-10(Check Whether a Number is Divisible by 8 or Not.)
+38. Bit Manipulation-10(Check Whether a Number is Divisible by 8 or Not).
 
 39. Generating Prime Numbers Within a Given Range.
 
@@ -89,11 +89,11 @@ This Code library consists the following codes :(Goal 150)
 
 44. Insertion Sort.
 
-45. Bit Manipulation-11(Product of Two Numbers Without Using Multiplication Operator.)
+45. Bit Manipulation-11(Product of Two Numbers Without Using Multiplication Operator).
 
-46. Bit Manipulation-12(Addition of Two Numbers Without Using Addition Operator.)
+46. Bit Manipulation-12(Addition of Two Numbers Without Using Addition Operator).
 
-47. Bit Manipulation-13(Subtraction Between Two Numbers Without Minus Opeartor.)
+47. Bit Manipulation-13(Subtraction Between Two Numbers Without Minus Opeartor).
 
 48. Banker's Algorithm.
 
@@ -123,11 +123,11 @@ This Code library consists the following codes :(Goal 150)
 
 61. Kaprekar Numbers.
 
-62. Bit Manipulation-14(AND Product of a Range of Values.)
+62. Bit Manipulation-14(AND Product of a Range of Values).
 
-63. Bit Manipulation-15(Smallest Power of 2 Greater Than or Equal to n.)
+63. Bit Manipulation-15(Smallest Power of 2 Greater Than or Equal to n).
 
 64. Check Whether Given Subsequence is Present or Not.
 
-65. Bit Manipulation-16(Multiply Given Number by 7.)
+65. Bit Manipulation-16(Multiply Given Number by 7).
 
