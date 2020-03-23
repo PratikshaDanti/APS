@@ -121,3 +121,13 @@ This Code library consists the following codes :(Goal 150)
 
 60. Kadane's Algorithm.
 
+61. Kaprekar Numbers.
+
+62. Bit Manipulation-14(AND Product of a Range of Values.)
+
+63. Bit Manipulation-15(Smallest Power of 2 Greater Than or Equal to n.)
+
+64. Check Whether Given Subsequence is Present or Not.
+
+65. Bit Manipulation-16(Multiply Given Number by 7.)
+
