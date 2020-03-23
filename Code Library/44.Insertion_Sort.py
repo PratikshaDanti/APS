@@ -6,7 +6,7 @@ Created on Fri Mar 20 15:35:56 2020
 """
 
 def insertionSort(a,n):
-    for j in range(2,n):
+    for j in range(1,n):
         item=a[j]
         i=j-1
         while(i>=0 and item<a[i]):
