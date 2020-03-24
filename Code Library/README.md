@@ -2,23 +2,14 @@
 This Code library consists the following codes :(Goal 150)
 
 1. Longest Common Subsequence Problem.
-
 2. Rod Cutting Problem.
-
 3. Generate Possible Dyck's Sequences.
-
 4. Bit Manipulation-1(Toggling the Cases).
-
 5. Calculate nth Catalan Number.
-
 6. Bit Manipulation-2(Determine Whether Given Number is Even or Odd).
-
 7. Bit Manipulation-3(Check Whether ith Bit of a Number is Set or Not).
-
 8. Bit Manipulation-4(Count the Number of Digits in a Number).
-
 9. Longest Increasing Subsequence Problem.
-
 10. Union-Find Algorithm.
 
 11. Determine Factorial of nth Number Using DP.
