@@ -72,3 +72,8 @@ This Code library consists the following codes :(Goal 150)
 68. Right Circular Array Rotation k Number of Times.
 69. Check Whether Given Matrix is Symmetric or Not. 
 70. Validation of an Expression.
+71. Find 2 Unique Elements in a List.
+72. Bit Manipulation-16(Find a Unique Element in a List).
+73. Finding Duplicates in a List.
+74. Retain Unique Characters of a String.
+75. Merge Sort.
