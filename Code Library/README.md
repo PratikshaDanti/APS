@@ -77,3 +77,8 @@ This Code library consists the following codes :(Goal 150)
 73. Finding Duplicates in a List.
 74. Retain Unique Characters of a String.
 75. Merge Sort.
+76. Johnson Trottle Algorithm.
+77. Print all Possible Substrings
+78. Print all Possible Combinations.
+79. Bit Manipulation-17(Print Possible Substrings).
+80. Generate Possible Subsets Forming Sum Using any of the Subsets.
