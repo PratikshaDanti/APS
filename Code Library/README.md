@@ -82,3 +82,5 @@ This Code library consists the following codes :(Goal 150)
 78. Print all Possible Combinations.
 79. Bit Manipulation-17(Print Possible Substrings).
 80. Generate Possible Subsets Forming Sum Using any of the Subsets.
+81. Catalan Sequence Recursive Solution.
+82. Structurally Possible Different Binary Trees With n Nodes.
