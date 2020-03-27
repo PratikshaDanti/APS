@@ -88,7 +88,7 @@ This Code library consists the following codes :(Goal 150)
 84. Smallest K Digit Number Divisible by X.
 85. Largest K Digit Number Divisible by X.
 86. Check Whether Binary Representation of a Number is Palindrome or Not.
-87. Coin Change Problem.
+87. 
 88. Quick Sort.
 89. Binary Search.
 90. Heap Sort.
