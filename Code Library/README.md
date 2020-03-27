@@ -84,3 +84,11 @@ This Code library consists the following codes :(Goal 150)
 80. Generate Possible Subsets Forming Sum Using any of the Subsets.
 81. Catalan Sequence Recursive Solution.
 82. Structurally Possible Different Binary Trees With n Nodes.
+83. Float to Binary Conversion.
+84. Smallest K Digit Number Divisible by X.
+85. Largest K Digit Number Divisible by X.
+86. Check Whether Binary Representation of a Number is Palindrome or Not.
+87. Coin Change Problem.
+88. Quick Sort.
+89. Binary Search.
+90. Heap Sort.
