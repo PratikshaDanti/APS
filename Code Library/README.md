@@ -92,3 +92,8 @@ This Code library consists the following codes :(Goal 150)
 88. Quick Sort Recursive.
 89. Binary Search.
 90. Heap Sort.
+91. Count of all Unique Substrings with Non-Repeating Characters.
+92. Largest and Smallest N Digit Octal Numbers.
+93. Sort an Array of Strings According to the Number of Vowels in them.
+94. Sort an Array According to the Frequency.
+95. Perfect Cube String.
