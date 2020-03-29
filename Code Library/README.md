@@ -97,3 +97,8 @@ This Code library consists the following codes :(Goal 150)
 93. Sort an Array of Strings According to the Number of Vowels in them.
 94. Sort an Array According to the Frequency.
 95. Perfect Cube String.
+96. Find the XOR of ASCII Values of Characters in String.
+97. Count of Substrings Whose Decimal Equivalent is Greater than or Equal to K.
+98. Sum of all Non-Fibonacci Numbers in Range for Q Queries.
+99. Form Array of Distinct Elements With Each Element as sum of an Element From Each Array.
+100. Count of Consecutive Fibonacci Pairs in Given Array.
