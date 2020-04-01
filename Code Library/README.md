@@ -113,3 +113,8 @@ This Code library consists the following codes :(Goal 150)
 108. Compute GCD.
 109. Replace Elements With Greatest Element on Right Side.
 110. Prime Number of Set Bits in Binary Representation.
+111. Self Dividing Numbers.
+112. Ugly Number.
+113. Is Subsequence.
+114. Binary Prefix Divisible by 5.
+115. Count Negative Numbers in a Sorted Matrix.
