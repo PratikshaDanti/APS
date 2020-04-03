@@ -118,3 +118,21 @@ This Code library consists the following codes :(Goal 150)
 113. Is Subsequence.
 114. Binary Prefix Divisible by 5.
 115. Count Negative Numbers in a Sorted Matrix.
+116. Max Bitwise AND in a Range.
+117. Word Occurrence.
+118. Reverse Words.
+119. Remove Duplicates.
+120. Naive Pattern Search.
+121. Manacher's Algorithm.
+122. Boyer Moore Search.
+123. Levenshtein Distance.
+124. BFS.
+125. DFS.
+126. Armstrong Numbers.
+127. Binomial Coefficient Using Pascals Triangle.
+128. Find Factors.
+129. Fermat Little Theorem.
+130. Karatsuba Algorithm.
+131. Largest of Very Large Numbers.
+132. Prime Factors of a Number.
+133. Sum of Arithmetic Series.
