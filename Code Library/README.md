@@ -136,3 +136,9 @@ This Code library consists the following codes :(Goal 150)
 131. Largest of Very Large Numbers.
 132. Prime Factors of a Number.
 133. Sum of Arithmetic Series.
+134. Fenwick Tree.
+135. Salary Codechef Problem.
+136. Minimum Spanning Tree Kruskal.
+137. Maximum Spanning Tree Kruskal.
+138. Elephant Candy Problem.
+139. Basic Binary Tree.
