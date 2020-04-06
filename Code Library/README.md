@@ -142,3 +142,14 @@ This Code library consists the following codes :(Goal 150)
 137. Maximum Spanning Tree Kruskal.
 138. Elephant Candy Problem.
 139. Basic Binary Tree.
+140. Lowest Common Ancestor.
+141. Sieve Of Eratosthenes.
+142. Searching in BST.
+143. No of Comparisions in Different Sorting Algorithms.
+144. Basic Stack Operations.
+145. Stack Using List.
+146. Sort Using Stack.
+147. Reverse Linked List.
+148. Queues Using List.
+149. Delete Node in BST.
+150. Circular Queue Implementation.
